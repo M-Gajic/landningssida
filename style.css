@@ -1,0 +1,165 @@
+.body {
+  background-color: lightgray;
+  margin: 0px;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  margin: 0px;
+  float: right;
+}
+li {
+  margin-left: 20px;
+}
+.nav {
+  /*background-color: lightgray;*/
+  padding-top: 23px;
+  padding-bottom: 32px;
+  margin-bottom: 10px;
+  font-weight: 300px;
+  font-weight: bold;
+  padding-right: 20px;
+}
+
+.hero {
+  background-color: lightgray;
+  height: 300px;
+  text-align: center;
+  padding: 50px;
+  box-shadow: 10px;
+  font-size: large;
+}
+
+.cLogo {
+  width: 50px;
+  position: absolute;
+  top: 15px;
+}
+.ansök {
+  background-color: darkslategrey;
+  color: white;
+  display: inline-block;
+  border: none;
+  top: 200px;
+  height: 70px;
+  width: 200px;
+  border-radius: 40px;
+  text-align: center;
+  position: relative;
+  right: 55%;
+  left: 45%;
+  top: -170px;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.person {
+  width: 35%;
+  position: absolute;
+  top: 553px;
+  left: 60px;
+}
+
+.bBox {
+  width: 50%;
+  background-color: lightgray;
+  height: 392, 5px;
+  display: flex;
+}
+
+.info {
+  background-color: lightgray;
+  height: 22lh;
+  width: 50%;
+  font-size: large;
+}
+
+.about {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.rek {
+  margin-top: 75px;
+  padding-top: 20px;
+  background-color: lightgray;
+  height: 500px;
+  text-align: center;
+}
+
+.kille2 {
+  width: 30%;
+  position: absolute;
+  display: flex;
+  top: 62lh;
+  left: 65%;
+}
+
+.kille1 {
+  width: 30%;
+  position: absolute;
+  display: flex;
+  top: 62lh;
+  left: 35%;
+}
+
+.tjej1 {
+  width: 30%;
+  position: absolute;
+  display: flex;
+  top: 62lh;
+  right: 65%;
+}
+
+.tjejTxt {
+  display: flex;
+  margin-top: 200px;
+  margin-left: 0px;
+}
+
+.k1Txt {
+  display: flex;
+  margin-top: 200px;
+  margin-right: 40px;
+}
+
+.k2Txt {
+  display: flex;
+  margin-top: 200px;
+  margin-right: 40px;
+}
+
+.Cta {
+  margin-top: 75px;
+  background-color: lightgray;
+  height: 300px;
+  text-align: center;
+  padding: 50px;
+  box-shadow: 10px;
+  font-size: large;
+}
+
+.ansök2 {
+  background-color: darkslategrey;
+  color: white;
+  display: inline-block;
+  border: none;
+  height: 70px;
+  width: 200px;
+  border-radius: 40px;
+  text-align: center;
+  position: relative;
+
+  left: 1%;
+  top: 70px;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.footer {
+  margin-top: 75px;
+  background-color: lightgray;
+  height: 400px;
+}
