@@ -163,3 +163,8 @@ li {
   background-color: lightgray;
   height: 400px;
 }
+
+.footerL {
+  display: flex;
+  float: left;
+}
